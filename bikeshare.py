@@ -43,6 +43,7 @@ def get_filters():
             break
         else:
             print("invaild input. please put the right day")
+            print("Try again to put right week day")
 
     print('-'*40)
     return city, month, day
