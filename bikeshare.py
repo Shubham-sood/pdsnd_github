@@ -24,6 +24,7 @@ def get_filters():
             break
         else:
             print("City u entered in the invalid city")
+            print("Try again to put correct city name as given :")
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
@@ -178,6 +179,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+    #if user want to see the raw data so here we just create new function under that we put some logic also.
 def display_data(df):
     view_data=input("Would u like to view 5 individual trip data? Enter yes or no ")
     start_loc=0
