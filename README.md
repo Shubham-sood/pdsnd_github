@@ -20,10 +20,18 @@ Description:-
 File used:-
 	bikeshare.py
 
+Requirements:-
+	Python language 3.6 or above
+	Numpy and panda libraries
+	
+
 Project Data:-
 	chicago.csv:-This file is contaning bikeshare information about the  chicago city provided by Udacity.
 	new_york_city.csv:-This file is contaning bikeshare information about the  new york city provided by Udacity.
 	washington.csv:-This file is contaning bikeshare information about the  washington city provided by Udacity.
+
+Running the Program:-
+	I run this program on the udacity "Project workspace" that they provided.
 
 Credits:-
 	 udacity-Udacity's Programming for Data Science with R Nanodegree programm and their instructions are very helpful.
